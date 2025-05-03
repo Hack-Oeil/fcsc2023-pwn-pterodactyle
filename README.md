@@ -23,12 +23,12 @@ Origine : [pterodactyle](https://hackropole.fr/fr/challenges/pwn/fcsc2023-pwn-pt
 > http://localhost
 
 #### tentez 
-> nc pterodactyle.cyrhades.fr:4000
+> nc pterodactyle.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
