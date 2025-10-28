@@ -10,7 +10,7 @@ Fichiers:
 
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 
 Origine : [pterodactyle](https://hackropole.fr/fr/challenges/pwn/fcsc2023-pwn-pterodactyle/)
